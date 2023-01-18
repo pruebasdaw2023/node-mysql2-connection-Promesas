@@ -6,6 +6,8 @@
     "start": "node ./bin/www",
     "devstart": "set DEBUG='node-mysql-connection:*' & nodemon ./bin/www"
   },
+  "author": "TBH",
+  "keywords": ["nodejs", "mysql", "express"],
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "^4.3.4",
